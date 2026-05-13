@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const login = require("fca-horizon-remastered");
+const login = require("fca-project-orion");
 
 // Load config
 const config = JSON.parse(fs.readFileSync('./config.json', 'utf-8'));

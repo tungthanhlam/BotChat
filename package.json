@@ -9,8 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "fca-horizon-remastered": "^0.0.1-security"
-  }
+  "type": "commonjs"
 }
