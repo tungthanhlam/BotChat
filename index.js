@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const login = require("fca-unofficial");
+const login = require("fca-horizon-remastered");
 
 // Load config
 const config = JSON.parse(fs.readFileSync('./config.json', 'utf-8'));
